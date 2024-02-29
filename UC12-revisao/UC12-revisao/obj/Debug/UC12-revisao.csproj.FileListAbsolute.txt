@@ -1,0 +1,10 @@
+C:\Users\isabelle.anvalerio\source\repos\UC12-revisao\UC12-revisao\bin\Debug\UC12-revisao.exe.config
+C:\Users\isabelle.anvalerio\source\repos\UC12-revisao\UC12-revisao\bin\Debug\UC12-revisao.exe
+C:\Users\isabelle.anvalerio\source\repos\UC12-revisao\UC12-revisao\bin\Debug\UC12-revisao.pdb
+C:\Users\isabelle.anvalerio\source\repos\UC12-revisao\UC12-revisao\obj\Debug\UC12-revisao.csproj.AssemblyReference.cache
+C:\Users\isabelle.anvalerio\source\repos\UC12-revisao\UC12-revisao\obj\Debug\UC12_revisao.Form1.resources
+C:\Users\isabelle.anvalerio\source\repos\UC12-revisao\UC12-revisao\obj\Debug\UC12_revisao.Properties.Resources.resources
+C:\Users\isabelle.anvalerio\source\repos\UC12-revisao\UC12-revisao\obj\Debug\UC12-revisao.csproj.GenerateResource.cache
+C:\Users\isabelle.anvalerio\source\repos\UC12-revisao\UC12-revisao\obj\Debug\UC12-revisao.csproj.CoreCompileInputs.cache
+C:\Users\isabelle.anvalerio\source\repos\UC12-revisao\UC12-revisao\obj\Debug\UC12-revisao.exe
+C:\Users\isabelle.anvalerio\source\repos\UC12-revisao\UC12-revisao\obj\Debug\UC12-revisao.pdb
